@@ -8,6 +8,11 @@ public class HelloWorld {
 		     JaoFdp teste = new JaoFdp(20);
 		     
 		     teste.xingar();
+		     
+		     //brincadeira mais séria
+		     System.out.print("\n");
+		     CalculaIR calculoImposto = new CalculaIR(3000);
+		     System.out.println(calculoImposto);
 		   }
 
 }
