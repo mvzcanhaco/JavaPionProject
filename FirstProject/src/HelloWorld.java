@@ -13,6 +13,11 @@ public class HelloWorld {
 		     System.out.print("\n");
 		     CalculaIR calculoImposto = new CalculaIR(3000);
 		     System.out.println(calculoImposto);
+		     
+		     System.out.print("\n");
+		     
+		     ResolucaoTela resolucao = new ResolucaoTela();
+		     System.out.println(resolucao);
 		   }
 
 }
